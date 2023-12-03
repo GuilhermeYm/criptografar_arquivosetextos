@@ -1,2 +1,3 @@
 # Criptografar Arquivos e Textos
-<hr>
+
+Nesse programa você poderá criptografar textos e arquivos, mas lembresse que você não conseguerá descriptografar o arquivo:)
